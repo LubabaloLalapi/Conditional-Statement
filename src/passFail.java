@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Write a program that promts for final mark and if the final mark is greater or equal than 50, they Pass else display Fail
 public class passFail {
     public static void main(String[]args){
         Scanner in=new Scanner(System.in);
