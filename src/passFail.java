@@ -6,7 +6,7 @@ public class passFail {
         int finalMark;
         System.out.println("Enter final mark");
         finalMark=in.nextInt();
-        if(finalMark>=50){
+        if(finalMark>=50){ //If final mark greater or equal to 50, display "PASS" else display "FAIL"
             System.out.println("PASS");
         }else{
             System.out.println("FAIL");
